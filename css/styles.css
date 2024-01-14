@@ -430,6 +430,7 @@ header{
 .footer-container{
     margin-left: 156px;
     display: flex;
+    align-items: baseline;
 }
 
 .logo-box{
@@ -449,7 +450,6 @@ header{
 
 .soc-media{
     display: flex;
-    align-items: baseline;
     flex-direction: column;
 }
 
